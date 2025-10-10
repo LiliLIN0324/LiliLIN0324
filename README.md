@@ -1,27 +1,17 @@
 # 👋 Hi, I'm Lili Lin
 
 I'm a **Master's student in Planning & AI**, passionate about **urban design, AI applications, and 3D modeling**. I love combining technology and design to create innovative solutions.  
+📧 **Email:** [lili0324@snu.ac.kr](lili0324@snu.ac.kr)  
 
----
-
-## 🛠️ Skills & Tools
-
-- **Programming & Web:** Python, Java, HTML, MD
-- **Design & 3D Modeling:** Unity, Blender, 3ds Max, Rhino, SketchUp  
-- **Areas of Expertise:** Urban Planning, AI, UI/UX Design  
 ## 🛠️ Programming & Web
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/)  
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/) [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 
-## 🛠️ 3D Modeling & Design
-[![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)](https://unity.com/)  
-[![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://www.blender.org/)  
-[![3ds Max](https://img.shields.io/badge/-3ds_Max-0080FF?logo=autodesk&logoColor=white&style=for-the-badge)](https://www.autodesk.com/products/3ds-max/)  
-[![Rhino](https://img.shields.io/badge/-Rhino-2D2D2D?logo=rhino&logoColor=white&style=for-the-badge)](https://www.rhino3d.com/)  
-[![SketchUp](https://img.shields.io/badge/-SketchUp-FA5A28?logo=sketchup&logoColor=white&style=for-the-badge)](https://www.sketchup.com/)
+## 🛠 3D / Game / Architectural Tools
+[![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)  [![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://www.blender.org/)  [![3ds Max](https://img.shields.io/badge/-3ds%20Max-00A3E0?logo=autodesk&logoColor=white&style=for-the-badge)](https://www.autodesk.com/products/3ds-max/)  [![Rhino](https://img.shields.io/badge/-Rhino-4D4D4D?logo=rhino&logoColor=white&style=for-the-badge)](https://www.rhino3d.com/)  [![SketchUp](https://img.shields.io/badge/-SketchUp-EB6E1F?logo=sketchup&logoColor=white&style=for-the-badge)](https://www.sketchup.com/)  [![AutoCAD](https://img.shields.io/badge/-AutoCAD-ED1C24?logo=autodesk&logoColor=white&style=for-the-badge)](https://www.autodesk.com/products/autocad/)
 
----
+## 🎨 UI / Graphic Design Tools
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)  [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/photoshop.html)  [![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/illustrator.html)  [![InDesign](https://img.shields.io/badge/-InDesign-FF3366?logo=adobe-indesign&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/indesign.html)
+
 
 ## 💡 Interests
 
@@ -31,9 +21,9 @@ I'm a **Master's student in Planning & AI**, passionate about **urban design, AI
 
 ---
 
-## 💬 Let's Connect
 
-- 📧 **Email:** [lili0324@snu.ac.kr](lili0324@snu.ac.kr)  
+
+
 
 ---
 
