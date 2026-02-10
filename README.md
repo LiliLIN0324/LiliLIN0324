@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Lili Lin
 
 I'm a **Master's student in Planning & AI**, passionate about **urban design, AI applications, and 3D modeling**. I love combining technology and design to create innovative solutions.  
-📧 **Email:** [lili0324@snu.ac.kr](lili0324@snu.ac.kr)  
+📧 **Email:** [lily1326685527@gmail.com](lily1326685527@gmail.)  
+
+## Current projects
+https://lililin0324.github.io/
 
 ## 🛠️ Programming & Web
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/) [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
