@@ -1,35 +1,35 @@
-# 👋 Hi, I'm Lili Lin
+# Lili Lin · 林丽丽
 
-I'm a **Master's student in Planning & AI**, passionate about **urban design, AI applications, and 3D modeling**. I love combining technology and design to create innovative solutions.  
-📧 **Email:** [lily1326685527@gmail.com](lily1326685527@gmail.)  
+城市规划 × 人工智能。首尔国立大学城市与区域规划硕士在读，研究城市热环境、跨尺度形态分析与规划文本的知识图谱。
 
-## Current projects
-https://lililin0324.github.io/
-
-## 🛠️ Programming & Web
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/) [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-
-## 🛠 3D / Game / Architectural Tools
-[![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)  [![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://www.blender.org/)  [![3ds Max](https://img.shields.io/badge/-3ds%20Max-00A3E0?logo=autodesk&logoColor=white&style=for-the-badge)](https://www.autodesk.com/products/3ds-max/)  [![Rhino](https://img.shields.io/badge/-Rhino-4D4D4D?logo=rhino&logoColor=white&style=for-the-badge)](https://www.rhino3d.com/)  [![SketchUp](https://img.shields.io/badge/-SketchUp-EB6E1F?logo=sketchup&logoColor=white&style=for-the-badge)](https://www.sketchup.com/)  [![AutoCAD](https://img.shields.io/badge/-AutoCAD-ED1C24?logo=autodesk&logoColor=white&style=for-the-badge)](https://www.autodesk.com/products/autocad/)
-## Geodata Tools
-[![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white&style=for-the-badge)](https://www.qgis.org/) [![ArcGIS](https://img.shields.io/badge/-ArcGIS-0071C5?logo=arcgis&logoColor=white&style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)  [![GeoPandas](https://img.shields.io/badge/-GeoPandas-2CA02C?logo=python&logoColor=white&style=for-the-badge)](https://geopandas.org/)  [![Shapely](https://img.shields.io/badge/-Shapely-1F77B4?logo=python&logoColor=white&style=for-the-badge)](https://shapely.readthedocs.io/)
-## 🎨 UI / Graphic Design Tools
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)  [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/photoshop.html)  [![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/illustrator.html)  [![InDesign](https://img.shields.io/badge/-InDesign-FF3366?logo=adobe-indesign&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/indesign.html)
-
-
-## 💡 Interests
-
-- UI/UX Design  
-- 3D Visualization & Modeling  
-- Innovative urban planning solutions using AI  
+**个人网站**：[lililin0324.github.io](https://lililin0324.github.io/) · **邮箱**：[lily1326685527@gmail.com](mailto:lily1326685527@gmail.com)
 
 ---
 
+### 在做的事
 
+- 城市热韧性：极端高温日与常态日的温差如何被城市形态解释 —— [NYC_LCZ](https://github.com/LiliLIN0324/NYC_LCZ)、[seoul](https://github.com/LiliLIN0324/seoul)、[GBDT](https://github.com/LiliLIN0324/GBDT)
+- 规划文本 → 知识图谱：六种关系抽取方法的对比 —— [Knowledge_Graph](https://github.com/LiliLIN0324/Knowledge_Graph)
+- 生成式设计：用扩散模型做参与式城市更新的方案生成 —— [pur-ai](https://github.com/LiliLIN0324/pur-ai)
+- 把网页 demo 录成演示视频的工具 —— [web-demo-video-skill](https://github.com/LiliLIN0324/web-demo-video-skill)
 
+### 工具
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=esri&logoColor=white)
+![Grasshopper](https://img.shields.io/badge/Grasshopper-8A2BE2?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### 语言
+
+中文（母语）· English（IELTS 7）· 한국어（基础）
 
 ---
 
-## ⚡ Fun Fact
-I love turning ideas into **visual and interactive experiences** through design and coding. 🚀
+<sub>喜欢把研究做成能点开、能看的东西。</sub>
