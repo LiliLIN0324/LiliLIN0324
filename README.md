@@ -1,8 +1,10 @@
 # Lili Lin · 林丽丽
 
-城市规划 × 人工智能。首尔国立大学城市与区域规划硕士（2026 年毕业），研究城市热环境、跨尺度形态分析与规划文本的知识图谱。
+城市规划 × 人工智能。华中科技大学建筑学本科，首尔国立大学城市与区域规划硕士（2026 年毕业）。
 
-**个人网站**：[lililin0324.github.io](https://lililin0324.github.io/) · **邮箱**：[lily1326685527@gmail.com](mailto:lily1326685527@gmail.com)
+**商务网站**：[https://mujing-universe.pages.dev/](https://mujing-universe.pages.dev/)
+**个人网站**：[lililin0324.github.io](https://lililin0324.github.io/) 
+**邮箱**：[lily1326685527@gmail.com](mailto:lily1326685527@gmail.com)
 
 ---
 
